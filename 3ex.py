@@ -28,4 +28,4 @@ for line in file:
 
 
 
-print("\n",dict)
+print("\n", dict)
